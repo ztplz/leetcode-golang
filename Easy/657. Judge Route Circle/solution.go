@@ -1,5 +1,7 @@
 /*
- Author:     mysticzt@gmail.com
+ Author: ztplz
+ leetcode profile: https://leetcode.com/ztplz/
+ Email:     mysticzt@gmail.com
  Url:     https://leetcode.com/problems/judge-route-circle/description/
  Runtime: 4ms
 */import "strings"
