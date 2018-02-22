@@ -4,7 +4,7 @@
  Email:     mysticzt@gmail.com
  Url:     https://leetcode.com/problems/number-complement/description/
  Runtime: 0ms
-*/import "strconv"
+*/
 
 func findComplement(num int) int {
 	s := strconv.FormatInt(int64(num), 2)
