@@ -4,7 +4,7 @@
  Email:     mysticzt@gmail.com
  Url:     https://leetcode.com/problems/array-partition-i/description/
  Runtime: 80ms
-*/import "sort"
+*/
 
 func arrayPairSum(nums []int) int {
 	sort.Ints(nums)
