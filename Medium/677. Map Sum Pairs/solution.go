@@ -4,7 +4,7 @@
  Email:     mysticzt@gmail.com
  Url:     https://leetcode.com/problems/map-sum-pairs/description/
  Runtime: 12ms
-*/import "strings"
+*/
 
 type MapSum struct {
 	Item map[string]int
