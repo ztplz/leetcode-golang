@@ -4,7 +4,7 @@
  Email:     mysticzt@gmail.com
  Url:     https://leetcode.com/problems/fizz-buzz/description/
  Runtime: 140ms
-*/import "strconv"
+*/
 
 func fizzBuzz(n int) []string {
 	strArr := make([]string, n)
