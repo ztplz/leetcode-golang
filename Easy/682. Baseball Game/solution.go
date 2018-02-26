@@ -4,7 +4,7 @@
  Email:     mysticzt@gmail.com
  Url:     https://leetcode.com/problems/baseball-game/description/
  Runtime: 0ms
-*/import "strconv"
+*/
 
 func calPoints(ops []string) int {
 	sum := 0
