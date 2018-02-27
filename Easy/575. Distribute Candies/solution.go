@@ -4,7 +4,7 @@
  Email:     mysticzt@gmail.com
  Url:     https://leetcode.com/problems/distribute-candies/description/
  Runtime: 292ms
-*/import "sort"
+*/
 
 func distributeCandies(candies []int) int {
 	l := len(candies)
